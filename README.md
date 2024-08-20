@@ -38,20 +38,6 @@ This repository contains the work completed for the BCG Data Science Job Simulat
 
 This project showcases the application of data science in a real-world business context, focusing on customer retention through churn prediction. The insights and models developed here are valuable tools for any business looking to minimize customer churn and maximize profitability.
 
-## Repository Structure
-
-- `data/`: Folder containing any datasets used in the analysis (if applicable).
-- `notebooks/`: Jupyter notebooks containing the data analysis, model development, and evaluation processes.
-- `scripts/`: Python scripts used for data processing and model training.
-- `reports/`: Contains the executive summary and other relevant documentation.
-- `README.md`: This file, providing an overview of the project.
-
-## How to Use This Repository
-
-1. **Clone the repository**: `git clone https://github.com/yourusername/bcg-data-science-job-simulation.git`
-2. **Navigate to the directory**: `cd bcg-data-science-job-simulation`
-3. **Run the Jupyter notebooks** in the `notebooks/` directory to see the analysis and modeling steps.
-4. **Review the executive summary** in the `reports/` directory for actionable insights and recommendations.
 
 ## Acknowledgments
 
